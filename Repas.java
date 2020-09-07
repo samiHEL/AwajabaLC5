@@ -2,7 +2,7 @@ import java.time.LocalDate;
 
 public class Repas {
 	
-	int numero;
+	int numero;//num1
 	LocalDate date;
 	
 	public Repas(int numero, LocalDate date) {
